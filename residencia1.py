@@ -6,7 +6,7 @@ from datetime import datetime
 caminho_raiz = r"C:\Users\santoswssf\Desktop\estudo\Dados_Brutos"
 arquivo_log = "historico_organizacao.txt"
 
-setores_validos = ["Marketing", "CustomerSuccess", "Financeiro", "Comercial", "Produto", "RH"]
+setores_validos = ["Marketing", "Customer Success", "Financeiro", "Comercial", "Produto", "RH"]
 
 def registrar_log(mensagem):
     """Registra as ações em um arquivo de log externo."""
