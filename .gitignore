@@ -1,0 +1,15 @@
+# Arquivos de log gerados pelo sistema
+historico_organizacao.txt
+
+# Byte-compiled / pastas do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
